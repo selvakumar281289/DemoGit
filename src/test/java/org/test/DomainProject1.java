@@ -55,6 +55,8 @@ public static void main(String[] args) throws AWTException {
 	String text = fligname.getText();
 	System.out.println(text);
 	
+	System.out.println("HELLO");
+	
 	
 }
 }
